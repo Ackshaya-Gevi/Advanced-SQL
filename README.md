@@ -1,2 +1,2 @@
 # SQL
-Sql queries
+Advanced SQL
